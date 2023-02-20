@@ -1,4 +1,4 @@
-Я изучил работу [autocompletion](https://github.com/letimvkocmoc/home_task_21.git)
+Я изучил работу [letimvkocmoc](https://github.com/letimvkocmoc/home_task_21.git)
 
 Я обнаружил следующие запахи:
 ___
